@@ -1,3 +1,16 @@
+## LAB 29
+## Project Name : Django-X-Snacks
+## Auther : Almuotaz Abu-taha
+## setup :
+python manage.py runserver 
+
+
+
+
+
+
+
+
 > A batteries-included Django starter project. To learn more try the books [Django for Beginners](https://djangoforbeginners.com), [Django for APIs](https://djangoforapis.com), and [Django for Professionals](https://djangoforprofessionals.com).
 
 
